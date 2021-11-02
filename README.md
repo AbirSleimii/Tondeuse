@@ -36,16 +36,17 @@ d'instructions.
 Lorsqu'une tondeuse achève une série d'instruction, elle communique sa position
 et son orientation.  
 
-OBJECTIF  
+__OBJECTIF__  
 Concevoir et écrire un programme en Java. Ce programme devra implémenter la
 spécification ci-dessus et passer le test ci-après.
 
-TEST  
+__TEST__  
 Le fichier suivant est fourni en entrée : 5 5 1 2 N GAGAGAGAA 3 3 E AADAADADDA
 On attend le résultat suivant (position finale des tondeuses) : 1 3 N 5 1 E NB: Les
 données en entrée sont injectées sous forme de fichier. 
 
 
-__PS:__ Le nom du fichier à executer doit etre mis dans les args en entrées du programme (run configration).  
+__PS:__  
+Le nom du fichier à executer doit etre mis dans les args en entrées du programme (run configration).  
 Le résultat s'affiche dans la console (il y a ainsi un systeme de logging pour stocker les résultats de chaque etape)  
 Pour les tests, on propose en plus des tests unitaires
