@@ -1,5 +1,4 @@
-# MowItNow
-Programmer une tondeuse:  
+# Programmer une tondeuse:  
 La société MowItNow a décidé de développer une tondeuse à gazon automatique,
 destinée aux surfaces rectangulaires.  
 La tondeuse peut être programmée pour parcourir l'intégralité de la surface. La
