@@ -46,6 +46,6 @@ On attend le résultat suivant (position finale des tondeuses) : 1 3 N 5 1 E NB:
 données en entrée sont injectées sous forme de fichier. 
 
 
-PS: Le nom du fichier à executer doit etre mis dans les args en entrées du programme (run configration).  
+__PS:__ Le nom du fichier à executer doit etre mis dans les args en entrées du programme (run configration).  
 Le résultat s'affiche dans la console (il y a ainsi un systeme de logging pour stocker les résultats de chaque etape)  
 Pour les tests, on propose en plus des tests unitaires
